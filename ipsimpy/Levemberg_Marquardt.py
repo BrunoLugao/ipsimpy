@@ -5,7 +5,7 @@ Created on Wed May 15 11:59:22 2019
 @author: Bruno
 """
 
-from Problemas_Inversos.Problema_Inverso import Definicoes_Preliminares as _Df
+from ipsimpy.Problema_Inverso import Definicoes_Preliminares as _Df
 from numpy import array, eye, linalg, dot, zeros, append, copy, savetxt
 from os import mkdir, path, chdir
 from time import time

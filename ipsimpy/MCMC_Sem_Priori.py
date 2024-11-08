@@ -6,7 +6,7 @@ Created on Wed Apr 15 16:42:37 2020
 """
 from time import time
 from sys import stdout
-from Problemas_Inversos.Problema_Inverso import Definicoes_Preliminares
+from ipsimpy.Problema_Inverso import Definicoes_Preliminares
 from numpy import array, float64, append, random, log, dot, diag, linalg, eye, mean, std, delete, zeros, s_, floor, sort
 
 

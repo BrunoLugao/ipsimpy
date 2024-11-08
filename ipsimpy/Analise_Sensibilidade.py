@@ -4,7 +4,7 @@ Created on Wed Apr 15 16:45:57 2020
 
 @author: BrunoLugao
 """
-from Problemas_Inversos.Problema_Inverso import Definicoes_Preliminares
+from ipsimpy.Problema_Inverso import Definicoes_Preliminares
 from numpy import array, float64, zeros, eye
 
 class Analise_Sensibilidade:
